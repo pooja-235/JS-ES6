@@ -24,7 +24,4 @@ function operation(){
     let calculation = document.getElementById("res").innerHTML=result
 }
 
-function tocheck(){
-    
-}
-//getting error
+
